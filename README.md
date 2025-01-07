@@ -15,3 +15,12 @@ then im learned about html, but i was learned about this, now im trying to learn
 and more...
 
 i know that all i learned its more than this, but read my words.... its killing inside me ty odin :3
+
+im stupid...
+
+i just realized that i wrote wrong commit :v
+
+well here is the correct assigment
+
+i made web page, only with html, about recipies, the recipes were collect from allRecipes.com
+
